@@ -7,3 +7,10 @@
 .dice4:hover circle{
     transform: scale(1.4);
 }
+.dice5 g{
+    transition: all .5s;
+    transform-origin: center center;
+}
+.dice5:hover g{
+    transform: scale(1.4);
+}
