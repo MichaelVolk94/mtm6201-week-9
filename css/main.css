@@ -1,0 +1,9 @@
+.dice4 circle{
+    fill: #f57c00;
+    transition: all .5s;
+    transform-origin: 50px 50px;
+}
+
+.dice4:hover circle{
+    transform: scale(1.4);
+}
